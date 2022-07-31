@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib bernardina.mtl
+o bernardina
+v 25.179585 0.950620 -1.126837
+v 26.939369 0.950620 -1.126837
+v 25.179585 0.612176 -1.126837
+v 26.939369 0.612176 -1.126837
+vt 0.000000 0.513031
+vt 1.000000 0.513031
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn 0.0000 0.0000 1.0000
+usemtl bernardina
+s off
+f 3/1/1 4/2/1 2/3/1 1/4/1

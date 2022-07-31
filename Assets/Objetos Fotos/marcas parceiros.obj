@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib marcas parceiros.mtl
+o marcas_parceiros
+v 15.126245 -0.412855 7.294723
+v 12.165296 -0.412855 7.294727
+v 15.126245 -0.013896 7.294723
+v 12.165296 -0.013896 7.294727
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn -0.0000 0.0000 -1.0000
+usemtl marcas_parceiros
+s off
+f 1/1/1 2/2/1 4/3/1 3/4/1

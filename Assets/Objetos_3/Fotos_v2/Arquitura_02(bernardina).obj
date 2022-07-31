@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib Arquitura_02(bernardina).mtl
+o Arquitetura_02(bernardina)
+v 25.170588 0.629855 -1.126837
+v 26.948366 0.629855 -1.126837
+v 25.170588 1.629855 -1.126837
+v 26.948366 1.629855 -1.126837
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn 0.0000 -0.0000 1.0000
+usemtl Arquitetura_02(bernardina)
+s off
+f 1/1/1 2/2/1 4/3/1 3/4/1

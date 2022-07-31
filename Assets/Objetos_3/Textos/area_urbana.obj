@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib area_urbana.mtl
+o area_urbana
+v 12.196546 0.953006 -1.132532
+v 14.182779 0.953006 -1.132532
+v 12.196546 0.339710 -1.132532
+v 14.182779 0.339710 -1.132532
+vt 0.000000 0.221354
+vt 1.000000 0.221354
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn 0.0000 0.0000 1.0000
+usemtl area_urbana
+s off
+f 3/1/1 4/2/1 2/3/1 1/4/1

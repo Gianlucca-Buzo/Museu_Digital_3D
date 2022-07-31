@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib cerro da buena.mtl
+o cerro_da_buena
+v 20.258610 0.946840 -1.126837
+v 22.005331 0.946840 -1.126837
+v 20.258610 0.482086 -1.126837
+v 22.005331 0.482086 -1.126837
+vt 0.000000 0.326289
+vt 1.000000 0.326289
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn 0.0000 0.0000 1.0000
+usemtl cerro_da_buena
+s off
+f 3/1/1 4/2/1 2/3/1 1/4/1

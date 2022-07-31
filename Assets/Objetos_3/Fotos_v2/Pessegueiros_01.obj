@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib Pessegueiros_01.mtl
+o Pessegueiros_01
+v 11.471643 -0.385338 7.381794
+v 11.471643 3.689866 7.381794
+v 9.658252 -0.385338 7.381794
+v 9.658252 3.689866 7.381794
+vt 0.456062 0.000000
+vt 0.706364 0.000000
+vt 0.706364 1.000000
+vt 0.456061 1.000000
+vn 0.0000 0.0000 1.0000
+usemtl Pessegueiros_01
+s off
+f 3/1/1 1/2/1 2/3/1 4/4/1

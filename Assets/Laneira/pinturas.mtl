@@ -1,0 +1,194 @@
+# Blender MTL File: 'None'
+# Material Count: 16
+
+newmtl 1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\1.jpg
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\1.jpg
+
+newmtl 10
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\10.jpg
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\10.jpg
+
+newmtl 11
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\11.jpg
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\11.jpg
+
+newmtl 12
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\12.jpg
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\12.jpg
+
+newmtl 2
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\2.jpg
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\2.jpg
+
+newmtl 3
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\3.jpg
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\3.jpg
+
+newmtl 4
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\4.jpg
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\4.jpg
+
+newmtl 5
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\5.jpg
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\5.jpg
+
+newmtl 6
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\6.jpg
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\6.jpg
+
+newmtl 7
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\7.jpg
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\7.jpg
+
+newmtl 8
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\8.jpg
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\8.jpg
+
+newmtl 9
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\9.jpg
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\9.jpg
+
+newmtl Afonso_Pena
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\Afonso Pena.png
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\Afonso Pena.png
+
+newmtl Açoita_Cavalo
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\Açoita Cavalo.png
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\Açoita Cavalo.png
+
+newmtl Cachoeira
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\Cachoeira.jpg
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\Cachoeira.jpg
+
+newmtl Passo_do_Valdez
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\Passo do Valdez.png
+map_d C:\\Users\\mauri\\Desktop\\PREC\\Projetos\\Galeria Digital\\Fotos\\Passo do Valdez.png

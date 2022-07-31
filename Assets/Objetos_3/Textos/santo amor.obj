@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib santo amor.mtl
+o santo_amor
+v 37.272835 0.947020 -1.126135
+v 39.026772 0.947020 -1.126135
+v 37.272835 0.416308 -1.126135
+v 39.026772 0.416308 -1.126135
+vt 0.000000 0.233841
+vt 1.000000 0.233841
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn 0.0000 0.0000 1.0000
+usemtl santo_amor
+s off
+f 3/1/1 4/2/1 2/3/1 1/4/1

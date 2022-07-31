@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib santa_bernardina.mtl
+o sem_foto.006_Estrada_rural_01.002
+v 13.442060 0.629855 -1.162430
+v 15.219838 0.629855 -1.162430
+v 13.442060 1.629855 -1.162430
+v 15.219838 1.629855 -1.162430
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn 0.0000 -0.0000 1.0000
+usemtl None
+s off
+f 1/1/1 2/2/1 4/3/1 3/4/1

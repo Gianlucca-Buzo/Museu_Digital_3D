@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib afonso pena.mtl
+o afonso_pena
+v 19.451586 0.959118 7.334311
+v 17.652433 0.959118 7.334314
+v 19.451586 0.474652 7.334311
+v 17.652433 0.474652 7.334314
+vt 0.000000 0.320959
+vt 1.000000 0.320959
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn -0.0000 0.0000 -1.0000
+usemtl afonso_pena
+s off
+f 3/1/1 4/2/1 2/3/1 1/4/1

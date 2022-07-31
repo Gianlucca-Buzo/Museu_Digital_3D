@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib campestre.mtl
+o campestre
+v 28.979416 0.933908 -1.121920
+v 30.731222 0.933908 -1.121920
+v 28.979416 0.601391 -1.121920
+v 30.731222 0.601391 -1.121920
+vt 0.000000 0.519380
+vt 1.000000 0.519380
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn 0.0000 0.0000 1.0000
+usemtl campestre
+s off
+f 3/1/1 4/2/1 2/3/1 1/4/1

@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib Arquitetura_07(valdez).mtl
+o Arquitetura_07(valdez)
+v 34.560749 0.628120 -1.126135
+v 36.338528 0.628120 -1.126135
+v 34.560749 1.628120 -1.126135
+v 36.338528 1.628120 -1.126135
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn 0.0000 -0.0000 1.0000
+usemtl Arquitetura_07(valdez)
+s off
+f 1/1/1 2/2/1 4/3/1 3/4/1

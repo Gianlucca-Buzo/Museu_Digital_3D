@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib sao_domingo.mtl
+o sao_domingo
+v 22.765591 0.942595 7.380438
+v 24.497061 0.942595 7.380438
+v 22.765591 0.298027 7.380438
+v 24.497061 0.298027 7.380438
+vt 0.000000 0.057400
+vt 1.000000 0.057400
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn 0.0000 0.0000 1.0000
+usemtl sao_domingo
+s off
+f 3/1/1 4/2/1 2/3/1 1/4/1

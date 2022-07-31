@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib laranjeira00.mtl
+o Laranjeira
+v 20.604406 0.629599 7.380437
+v 22.382185 0.629599 7.380437
+v 20.604406 1.629599 7.380437
+v 22.382185 1.629599 7.380437
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn 0.0000 0.0000 1.0000
+usemtl Laranjeira
+s off
+f 1/1/1 2/2/1 4/3/1 3/4/1

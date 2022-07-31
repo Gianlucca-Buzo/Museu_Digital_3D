@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib Paisagem_02(buena).mtl
+o Paisagem_02(buena).001
+v 24.520214 0.997173 7.338916
+v 22.742435 0.997173 7.338918
+v 24.520214 1.997174 7.338916
+v 22.742435 1.997174 7.338918
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn -0.0000 0.0000 -1.0000
+usemtl Paisagem_02(buena)
+s off
+f 1/1/1 2/2/1 4/3/1 3/4/1

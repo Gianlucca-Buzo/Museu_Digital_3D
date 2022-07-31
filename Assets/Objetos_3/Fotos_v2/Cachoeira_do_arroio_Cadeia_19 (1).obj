@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib Cachoeira_do_arroio_Cadeia_19.mtl
+o Cachoeira_do_arroio_Cadeia_19
+v 10.126615 -0.436733 -1.171970
+v 10.126615 3.748553 -1.171970
+v 10.126615 -0.436733 3.985677
+v 10.126615 3.748553 3.985677
+vt 0.000000 0.000000
+vt 0.000000 1.000000
+vt 0.693185 1.000000
+vt 0.693185 0.000000
+vn 1.0000 0.0000 0.0000
+usemtl Cachoeira_do_arroio_Cadeia_19
+s off
+f 1/1/1 2/2/1 4/3/1 3/4/1

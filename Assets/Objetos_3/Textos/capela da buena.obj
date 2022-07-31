@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib capela da buena.mtl
+o capela_da_buena
+v 24.505404 0.964218 7.338916
+v 22.757244 0.964218 7.338918
+v 24.505404 0.434663 7.338916
+v 22.757244 0.434663 7.338918
+vt 0.000000 0.232986
+vt 1.000000 0.232986
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn -0.0000 0.0000 -1.0000
+usemtl capela_da_buena
+s off
+f 3/1/1 4/2/1 2/3/1 1/4/1

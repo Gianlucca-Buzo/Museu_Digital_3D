@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib palha branca.mtl
+o palha_branca
+v 25.183834 0.951945 7.380437
+v 26.933235 0.951945 7.380437
+v 25.183834 0.486828 7.380437
+v 26.933235 0.486828 7.380437
+vt 0.000000 0.326797
+vt 1.000000 0.326797
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn 0.0000 0.0000 1.0000
+usemtl palha_branca
+s off
+f 3/1/1 4/2/1 2/3/1 1/4/1

@@ -1,0 +1,16 @@
+# Blender v2.90.0 OBJ File: 'laneira_prototipo.blend'
+# www.blender.org
+mtllib acoita cavalo.mtl
+o acoita_cavalo
+v 26.952951 0.971648 7.339380
+v 25.164120 0.971648 7.339382
+v 26.952951 0.690235 7.339380
+v 25.164120 0.690235 7.339382
+vt 0.000000 0.603289
+vt 1.000000 0.603289
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn -0.0000 0.0000 -1.0000
+usemtl acoita_cavalo
+s off
+f 3/1/1 4/2/1 2/3/1 1/4/1
