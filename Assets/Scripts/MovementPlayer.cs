@@ -1,10 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Pun;
 
 public class MovementPlayer : MonoBehaviour
 {
     public CharacterController controller;
+
+    PhotonView view;
 
 
     public float speed = 8f;
@@ -19,26 +22,29 @@ public class MovementPlayer : MonoBehaviour
 
 
     void Start(){
-        
+        view = GetComponent<PhotonView>();
     }
     // Update is called once per frame
     void Update(){
 
-        isGrounded = Physics.CheckSphere(groundCheck.position, distanciaDoChao,groundMask);
+        if(view.IsMine){
+            isGrounded = Physics.CheckSphere(groundCheck.position, distanciaDoChao,groundMask);
+            if(isGrounded && gravitySpeed.y < 0){
+                    gravitySpeed.y = -2f;
+                }
+                
+            float x = Input.GetAxis("Horizontal");
+            float z = Input.GetAxis("Vertical");
+        
+            Vector3 move = transform.right * x + transform.forward * z;
 
-        if(isGrounded && gravitySpeed.y < 0){
-            gravitySpeed.y = -2f;
+            controller.Move(move * speed * Time.deltaTime);
+
+            gravitySpeed.y += gravity * Time.deltaTime;
+
+            controller.Move(gravitySpeed * Time.deltaTime);
+            
         }
-        float x = Input.GetAxis("Horizontal");
-        float z = Input.GetAxis("Vertical");
-
-        Vector3 move = transform.right * x + transform.forward * z;
-
-        controller.Move(move * speed * Time.deltaTime);
-
-        gravitySpeed.y += gravity * Time.deltaTime;
-
-        controller.Move(gravitySpeed * Time.deltaTime);
     }
 }
 
