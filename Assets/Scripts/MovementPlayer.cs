@@ -19,10 +19,21 @@ public class MovementPlayer : MonoBehaviour
 
     Vector3 gravitySpeed;
     bool isGrounded;
+    
+    Rigidbody rb;
 
+
+   void Awake(){
+        view = GetComponent<PhotonView>();
+        rb = GetComponent<Rigidbody>();
+    }
 
     void Start(){
-        view = GetComponent<PhotonView>();
+        if(!view.IsMine){
+        	Destroy(GetComponentInChildren<Camera>().gameObject);
+        	Destroy(rb);
+        }
+        
     }
     // Update is called once per frame
     void Update(){
