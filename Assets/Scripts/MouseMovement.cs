@@ -9,21 +9,33 @@ public class MouseMovement : MonoBehaviour
     public Transform corpoDoPlayer;
 
     float xRotacao = 0f;
-    void Start()
-    {
-        Cursor.lockState = CursorLockMode.Locked;
-    }
+    // void Start()
+    // {
+    //     Cursor.lockState = CursorLockMode.Locked;
+    // }
 
     // Update is called once per frame
     void Update()
     {
-        float mouseX = Input.GetAxis("Mouse X") * sensibilidade * Time.deltaTime;
-        float mouseY = Input.GetAxis("Mouse Y") * sensibilidade * Time.deltaTime;
+         if (Input.GetKeyDown(KeyCode.Escape)){
+            Cursor.lockState = CursorLockMode.None;
+        }
+        if (Input.GetMouseButtonDown(0))
+        {
+            Cursor.lockState = CursorLockMode.Locked;
+        }
 
-        xRotacao -= mouseY;
-        xRotacao = Mathf.Clamp(xRotacao, -90f, 90f);
+        if(Cursor.lockState == CursorLockMode.Locked){
+            float mouseX = Input.GetAxis("Mouse X") * sensibilidade * Time.deltaTime;
+            float mouseY = Input.GetAxis("Mouse Y") * sensibilidade * Time.deltaTime;
 
-        transform.localRotation = Quaternion.Euler(xRotacao, 0f, 0f);
-        corpoDoPlayer.Rotate(Vector3.up * mouseX);
+            xRotacao -= mouseY;
+            xRotacao = Mathf.Clamp(xRotacao, -90f, 90f);
+
+            transform.localRotation = Quaternion.Euler(xRotacao, 0f, 0f);
+            corpoDoPlayer.Rotate(Vector3.up * mouseX);
+        }
     }
+
+    
 }
