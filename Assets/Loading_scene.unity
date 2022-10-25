@@ -633,6 +633,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74d4aa1ea249b8d4b807f8865438bfc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  lobbyKey: Level01
+  loadLevelName: Level01
 --- !u!4 &1929463320
 Transform:
   m_ObjectHideFlags: 0
